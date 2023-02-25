@@ -1,6 +1,6 @@
 ## About learn-nim-exercises-chapter-basic-data-types
 
-This repository was built with the goal to learn Nim and these exercises are from chapter Basic Data Types of [Nim Tutorial](https://narimiran.github.io/nim-basics/#_exercises).
+This repository was built with the goal to learn Nim and these exercises are from chapter Basic Data Types of [Nim Tutorial](https://narimiran.github.io/nim-basics/).
 
 
 ## Requirements
