@@ -1,3 +1,4 @@
+# internal
 import
   ./exercises/[
     exercise_1,
@@ -7,6 +8,7 @@ import
     exercise_5,
     exercise_6
   ]
+
 
 proc main() =
   # Exercise 1
