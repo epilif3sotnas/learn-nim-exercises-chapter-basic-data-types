@@ -1,4 +1,12 @@
-import exercises/[exercise_1, exercise_2, exercise_3, exercise_4, exercise_5, exercise_6]
+import
+  ./exercises/[
+    exercise_1,
+    exercise_2,
+    exercise_3,
+    exercise_4,
+    exercise_5,
+    exercise_6
+  ]
 
 proc main() =
   # Exercise 1
